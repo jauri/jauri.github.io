@@ -74,6 +74,15 @@ a.nav, a.nav:visited { color: #859ACF; font-weight: normal; }
 a:hover, a.nav:hover { color: #21408F; }
 
 
+/* teaser image */
+.small_teaser
+{
+    border: 1px solid black;
+    width: 180px;
+    float: left;
+    vertical-align: middle;
+}
+
 #info {
 width: 250px;
 float: left;
